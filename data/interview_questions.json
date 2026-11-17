@@ -1,0 +1,27 @@
+[
+  {
+    "category": "Python",
+    "question": "What is Python?",
+    "answer": "Python is a high-level, interpreted programming language known for its simple syntax."
+  },
+  {
+    "category": "Python",
+    "question": "What is a list?",
+    "answer": "A list is an ordered and mutable collection that stores multiple elements."
+  },
+  {
+    "category": "Machine Learning",
+    "question": "What is Machine Learning?",
+    "answer": "Machine Learning enables computers to learn patterns from data and make predictions."
+  },
+  {
+    "category": "SQL",
+    "question": "What is SQL?",
+    "answer": "SQL is a language used to manage and retrieve data from relational databases."
+  },
+  {
+    "category": "HR",
+    "question": "Tell me about yourself.",
+    "answer": "Introduce your education, skills, projects, achievements, and career interests."
+  }
+]
